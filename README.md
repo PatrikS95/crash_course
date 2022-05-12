@@ -1,3 +1,3 @@
-# crash_course
+# Golang crash-course
 
 Go Tutorial
